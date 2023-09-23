@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sasha_homework/static/css/main.7acaea2f.css",
+    "main.js": "/sasha_homework/static/js/main.87633e78.js",
+    "index.html": "/sasha_homework/index.html",
+    "main.7acaea2f.css.map": "/sasha_homework/static/css/main.7acaea2f.css.map",
+    "main.87633e78.js.map": "/sasha_homework/static/js/main.87633e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.87633e78.js"
+  ]
+}
